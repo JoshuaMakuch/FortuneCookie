@@ -45,11 +45,11 @@ Module FortuneCookie
 
             Select Case randomNumber
                 Case 0
-                    Console.WriteLine("You obtained Wisdom 1: OJSDJGOSNGFODSFNGODFSJGNUDF")
+                    Console.WriteLine("You obtained Wisdom 1: Your greatest obstacle is the one that never ends.")
                 Case 1
-                    Console.WriteLine("You obtained Wisdom 2: YOU DO NOT RECOGNIZE THE COGNITO HAZARD")
+                    Console.WriteLine("You obtained Wisdom 2: There will be a day that you were hugged by your parents for the last time.")
                 Case 2
-                    Console.WriteLine("You obtained Wisdom 3: THERE ARE SEVERAL KETER CLASS CONTAINMENT BREACHES IN THE FACILITY")
+                    Console.WriteLine("You obtained Wisdom 3: What gets bigger the more you take away from it, a hole.")
             End Select
         Next
 
