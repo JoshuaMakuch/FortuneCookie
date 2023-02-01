@@ -20,7 +20,7 @@ Module FortuneCookie
         'Asks the user how many fortune cookies the want
         Do
             Console.WriteLine("")
-            Console.WriteLine("How many fortune cookies would you like")
+            Console.WriteLine("How many fortune cookies would you like (Max 1000)")
             Try
                 userInput = CInt(Console.ReadLine())
                 Console.WriteLine("")
