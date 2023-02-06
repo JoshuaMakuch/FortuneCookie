@@ -1,6 +1,6 @@
 'Joshua Makuch
 'RCET 0265
-'Fall 2023
+'Winter 2023
 'Fortune Cookie
 'https://github.com/JoshuaMakuch/FortuneCookie.git
 
